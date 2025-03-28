@@ -84,10 +84,18 @@ For any inquiries or issues, reach out at [your-email@example.com] or visit [you
 
 ![Cart Page](screenshots/cart.png)
 
-### Cart Page
-
-![Cart Page](screenshots/cart.png)
-
 ### Order History Page
 
 ![Order History Page](screenshots/history.png)
+
+### Payment Success Page
+
+![Payment Success Page](screenshots/checkout-success.png)
+
+### Admin Dashboard Page
+
+![Admin Dashboard Page](screenshots/admin.png)
+
+### Admin Products Page
+
+![Admin Products Page](screenshots/product-admin.png)
