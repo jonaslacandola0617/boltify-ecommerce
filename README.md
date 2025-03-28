@@ -8,17 +8,17 @@ Boltify is an e-commerce platform built with Laravel, designed for hardware stor
 -   **User Authentication**: Secure login and registration for customers.
 -   **Shopping Cart & Checkout**: Seamless shopping experience with cart functionality and secure checkout.
 -   **Order Management**: Track and manage customer orders.
--   **Payment Integration**: Supports various payment methods (Stripe, PayPal, etc.).
+-   **Payment Integration**: Supports various payment methods (Stripe).
 -   **Admin Dashboard**: Manage products, orders, and users with ease.
 -   **Responsive Design**: Fully optimized for desktop and mobile devices.
 
 ## Technologies Used
 
 -   **Backend**: Laravel (PHP framework)
--   **Frontend**: Blade templates, Tailwind CSS (or Bootstrap)
+-   **Frontend**: Blade templates, Tailwind CSS, livewire
 -   **Database**: MySQL
--   **Payment Gateway**: Stripe/PayPal (if integrated)
--   **Authentication**: Laravel Breeze / Laravel Jetstream (if used)
+-   **Payment Gateway**: Stripe
+-   **Authentication**: Laravel Breeze
 
 ## Installation
 
@@ -52,7 +52,7 @@ Boltify is an e-commerce platform built with Laravel, designed for hardware stor
 
 -   Visit `http://localhost:8000` in your browser.
 -   Register/Login as a customer to browse and purchase products.
--   Access the admin panel (if applicable) to manage products and orders.
+-   Access the admin panel to manage products and orders.
 
 ## Contributing
 
@@ -62,11 +62,7 @@ Contributions are welcome! Feel free to fork this repository and submit pull req
 
 This project is licensed under the MIT License.
 
-## Contact
-
-For any inquiries or issues, reach out at [your-email@example.com] or visit [your-website.com].
-
-## Screenshots
+# Screenshots
 
 ### Login Page
 
