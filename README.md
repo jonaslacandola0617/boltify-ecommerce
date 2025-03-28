@@ -1,5 +1,4 @@
 <h1 align="center">Boltify</h1>
-<h3 align="center">Hardware E-Commerce Platform</h3>
 
 Boltify is an e-commerce platform built with Laravel, designed for hardware stores to sell products online efficiently. It provides features for product management, user authentication, order processing, and more.
 
